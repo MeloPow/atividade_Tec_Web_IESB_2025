@@ -1,0 +1,14 @@
+{
+  "habilidades": [
+    {
+      "id": 1,
+      "titulo": "Python",
+      "descricao": "Programação em Python, incluindo desenvolvimento web, automação e análise de dados."
+    },
+    {
+      "id": 2,
+      "titulo": "React",
+      "descricao": "Desenvolvimento de interfaces de usuário com React, incluindo hooks e gerenciamento de estado."
+    }
+  ]
+}
