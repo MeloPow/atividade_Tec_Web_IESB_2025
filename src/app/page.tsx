@@ -10,7 +10,7 @@ export default function Home() {
     <div id="principal" >
       <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
         <Image
-          src="/images/chimpas.jpg"
+          src="/images/miranha.jpg"
           alt="Foto de perfil"
           width={100}
           height={100}
