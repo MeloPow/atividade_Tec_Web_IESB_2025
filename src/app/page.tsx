@@ -17,10 +17,10 @@ export default function Home() {
           style={{ borderRadius: '50%' }}
         />
         <div>
-          <h1>Paulo Henrique</h1>
-          <h2>Desenvolvedor Web em Formação</h2>
-          <p>Email: paulo.henrique@example.com</p>
-          <p>LinkedIn: linkedin.com/in/paulo-henrique</p>
+          <h1>Peter Parker/Miranha</h1>
+          <h2>Jovem da paz/héroi da vizinhança</h2>
+          <p>Email: peterspiderman@gmail.com</p>
+          <p>LinkedIn: linkedin.com/in/spider-parker</p>
         </div>
       </div>
 

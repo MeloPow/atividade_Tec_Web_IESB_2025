@@ -2,13 +2,23 @@
   "habilidades": [
     {
       "id": 1,
-      "titulo": "Python",
-      "descricao": "Programação em Python, incluindo desenvolvimento web, automação e análise de dados."
+      "titulo": "Solto teia",
+      "descricao": "Disparo de teias altamente resistentes e que se fixam em qualquer superficie, tudo pelo pulso"
     },
     {
       "id": 2,
-      "titulo": "React",
-      "descricao": "Desenvolvimento de interfaces de usuário com React, incluindo hooks e gerenciamento de estado."
+      "titulo": "Escalo Parede",
+      "descricao": "Pés e mãos com aderencia máxima a superficies sólidas"
+    },
+    {
+      "id": 3,
+      "titulo": "Força sobre-humana",
+      "descricao": "Não tão forte quanto o Hulk, mas forte o suficiente para levantar carros e parar trens em movimento, sem lesionar nenhum musculo"
+    },
+    {
+      "id": 3,
+      "titulo": "Musculos 100% flexiveis",
+      "descricao": "Como mencionado na descrição de força, musculos que não se lesionam facilmente"
     }
   ]
 }
